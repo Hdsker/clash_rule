@@ -508,7 +508,6 @@ DOMAIN-SUFFIX,yunjiasussl.com
 DOMAIN-SUFFIX,zuoyebang.cc
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
-DOMAIN-SUFFIX,maj-soul.com
 DOMAIN,netease.ugcvideoss.ourdvs.com
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,api.iplay.163.com
@@ -550,6 +549,9 @@ DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,douban.fm
 DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,maj-soul.com
+DOMAIN-SUFFIX,game.maj-soul.com
+DOMAIN-SUFFIX,tuj.microsoftsa.com
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.132/31,no-resolve
 IP-CIDR,112.13.119.17/32,no-resolve
