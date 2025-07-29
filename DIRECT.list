@@ -551,7 +551,6 @@ DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,maj-soul.com
 DOMAIN-SUFFIX,game.maj-soul.com
-DOMAIN-SUFFIX,tuj.microsoftsa.com
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.132/31,no-resolve
 IP-CIDR,112.13.119.17/32,no-resolve
